@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EnhancedTextField.updateUIView(_:context:):EnhancedTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EnhancedTextField.makeUIView(context:):EnhancedTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EnhancedTextFieldCoordinator.textField(_:shouldChangeCharactersIn:replacementString:):EnhancedTextFieldCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
